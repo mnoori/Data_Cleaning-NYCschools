@@ -35,5 +35,5 @@ We can learn a few different things from these resources. For example:
 * Aggregating data by district will allow us to use the district mapping data to plot district-by-district differences.
 
 ## <a name='data'></a>Datasets
-* [2012 SAT Results] (https://data.cityofnewyork.us/browse?category=Education)
+* [2012 SAT Results](https://data.cityofnewyork.us/browse?category=Education)
 * "Demographics for each high school" <https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2>
