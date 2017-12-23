@@ -1,4 +1,11 @@
 # NYCschools
+
+## Datasets
+dataset can be found here: https://data.cityofnewyork.us/browse?category=Education
+SAT results: https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
+Demographics for each high school: https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2
+
+## Introduction to Analysis
 One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests, and whether they're unfair to certain groups. 
 ##### Investigating the correlations between SAT scores and demographics might be an interesting angle to take. We could correlate SAT scores with factors like race, gender, income, and more.
 
