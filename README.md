@@ -14,32 +14,26 @@ Unfortunately, combining both of the data sets won't give us all of the demograp
 
 The same website has several related data sets covering demographic information and test scores. Here are the links to all of the data sets we'll be using:
 
-.SAT scores by school - SAT scores for each high school in New York City
-.School attendance - Attendance information for each school in New York City
-.Class size - Information on class size for each school
-.AP test results - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
-.Graduation outcomes - The percentage of students who graduated, and other outcome information
-.Demographics - Demographic information for each school
-.School survey - Surveys of parents, teachers, and students at each school
-.All of these data sets are interrelated. We'll need to combine them into a single data set before we can find correlation.
+* SAT scores by school - SAT scores for each high school in New York City
+* School attendance - Attendance information for each school in New York City
+* Class size - Information on class size for each school
+* AP test results - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
+* Graduation outcomes - The percentage of students who graduated, and other outcome information
+* Demographics - Demographic information for each school
+* School survey - Surveys of parents, teachers, and students at each school
+* All of these data sets are interrelated. We'll need to combine them into a single data set before we can find correlation.
 
 Before we move into coding, we'll need to do some background research. A thorough understanding of the data will help us avoid costly mistakes, such as thinking that a column represents something other than what it does. Background research will also give us a better understanding of how to combine and analyze the data.
 
 We can learn a few different things from these resources. For example:
 
-.Only high school students take the SAT, so we'll want to focus on high schools.
-.New York City is made up of five boroughs, which are essentially distinct regions.
-.New York City schools fall within several different school districts, each of which can contains dozens of schools.
-.Our data sets include several different types of schools. We'll need to clean them so that we can focus on high schools only.
-.Each school in New York City has a unique code called a DBN, or district borough number.
-.Aggregating data by district will allow us to use the district mapping data to plot district-by-district differences.
+* Only high school students take the SAT, so we'll want to focus on high schools.
+* New York City is made up of five boroughs, which are essentially distinct regions.
+* New York City schools fall within several different school districts, each of which can contains dozens of schools.
+* Our data sets include several different types of schools. We'll need to clean them so that we can focus on high schools only.
+* Each school in New York City has a unique code called a DBN, or district borough number.
+* Aggregating data by district will allow us to use the district mapping data to plot district-by-district differences.
 
 ## <a name='data'></a>Datasets
-City of New York Eductaion: https://data.cityofnewyork.us/browse?category=Education
-SAT results: https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
-Demographics for each high school: https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2
-
-* [Team Members](#team-members)
-
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+* "2012 SAT Results" <https://data.cityofnewyork.us/browse?category=Education>
+* "Demographics for each high school" <https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2>
