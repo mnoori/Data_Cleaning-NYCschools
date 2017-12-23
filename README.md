@@ -1,7 +1,7 @@
 # NYCschools
 
 ## Datasets
-dataset can be found here: https://data.cityofnewyork.us/browse?category=Education
+City of New York Eductaion: https://data.cityofnewyork.us/browse?category=Education
 SAT results: https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
 Demographics for each high school: https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2
 
@@ -35,3 +35,10 @@ New York City schools fall within several different school districts, each of wh
 Our data sets include several different types of schools. We'll need to clean them so that we can focus on high schools only.
 Each school in New York City has a unique code called a DBN, or district borough number.
 Aggregating data by district will allow us to use the district mapping data to plot district-by-district differences.
+
+# Table of Contents
+
+* [Team Members](#team-members)
+
+# <a name="team-members"></a>Team Members
+* "J. Jesus. P. Aguinaga" <admin@listforks.com>
