@@ -1,13 +1,9 @@
 # NYCschools
 ## Table of Contents
 * [Introduction](#intro)
+* [Datasets](#data)
 
-## <a name="team-members"></a>Datasets
-City of New York Eductaion: https://data.cityofnewyork.us/browse?category=Education
-SAT results: https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
-Demographics for each high school: https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2
-
-## Introduction to Analysis
+## <a name="intro"></a>Introduction to Analysis
 One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests, and whether they're unfair to certain groups. 
 ##### Investigating the correlations between SAT scores and demographics might be an interesting angle to take. We could correlate SAT scores with factors like race, gender, income, and more.
 
@@ -37,6 +33,11 @@ We can learn a few different things from these resources. For example:
 .Our data sets include several different types of schools. We'll need to clean them so that we can focus on high schools only.
 .Each school in New York City has a unique code called a DBN, or district borough number.
 .Aggregating data by district will allow us to use the district mapping data to plot district-by-district differences.
+
+## <a name='data'></a>Datasets
+City of New York Eductaion: https://data.cityofnewyork.us/browse?category=Education
+SAT results: https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
+Demographics for each high school: https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2
 
 * [Team Members](#team-members)
 
