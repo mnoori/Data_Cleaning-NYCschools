@@ -3,16 +3,16 @@
 * [Introduction](#intro)
 * [Analysis Goal](#goal)
 * [Datasets](#data)
-* [Background Research]#(#research)
+* [Background Research](#research)
 
 ## <a name="intro"></a>Introduction to Analysis
 One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests, and whether they're unfair to certain groups. The SAT, or Scholastic Aptitude Test, is an exam that U.S. high school students take before applying to college. Colleges take the test scores into account when deciding who to admit, so it's fairly important to perform well on it.
 The test consists of three sections, each of which has 800 possible points. The combined score is out of 2,400 possible points (while this number has changed a few times, the data set for our project is based on 2,400 total points). Organizations often rank high schools by their average SAT scores. The scores are also considered a measure of overall school district quality.
 
-## <b name="goal"></b>Analysis Goal
+## <a name="goal"></a>Analysis Goal
 Investigating the correlations between SAT scores and demographics might be an interesting angle to take. We could correlate SAT scores with factors like race, gender, income, and more.
 
-## <c name="data"></c>Datasets
+## <a name="data"></a>Datasets
 * [2012 SAT Results](https://data.cityofnewyork.us/browse?category=Education)
 * [Demographics for each high school](https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2)
 
@@ -28,7 +28,7 @@ The same website has several related data sets covering demographic information 
 * School survey - Surveys of parents, teachers, and students at each school
 * All of these data sets are interrelated. We'll need to combine them into a single data set before we can find correlation.
 
-## <d name="research"></d>Background Research
+## <a name="research"></a>Background Research
 Before we move into coding, we'll need to do some background research. A thorough understanding of the data will help us avoid costly mistakes, such as thinking that a column represents something other than what it does. Background research will also give us a better understanding of how to combine and analyze the data.
 We can learn a few different things from these resources. For example:
 
